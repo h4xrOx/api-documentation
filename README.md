@@ -8,8 +8,6 @@
 
 ## Other helpful information
 
-Our LUA Scripting [Discord](https://discord.gg/wtzfXrUzBv).
-
 Scripts stored in (csgo folder)/nl (for example,
 `C:\program files (x86)\steam\steamapps\common\Counter-Strike Global Offensive\nl`)
 
@@ -24,4 +22,4 @@ Feel free to contact us:
 - [Issues](https://github.com/neverlosecc/api-documentation/issues)
 - [Pull Requests](https://github.com/neverlosecc/api-documentation/pulls)
 - Personal messages to any of documentation maintainer:
-  - elleqt#9945
+  - Telegram: @elleqt1337
