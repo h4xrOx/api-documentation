@@ -138,6 +138,7 @@ end)
 ## `registered_shot`
 
 This callback will be executed whenever server registers ragebot shot
+More information on the passed parameter RegisteredShot can be found [here](../neverlose/types/RegisteredShot.md)
 
 ### Parameters passed in callback:
 
@@ -154,6 +155,7 @@ end)
 ## `ragebot_shot`
 
 This callback will be executed whenever ragebot shoot
+More information on the passed parameter RagebotShot can be found [here](../neverlose/types/RagebotShot.md)
 
 ### Parameters passed in callback:
 
