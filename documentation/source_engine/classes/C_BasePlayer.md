@@ -102,6 +102,21 @@ local is_visible = player:IsVisible(Vector.new(0, 0, 0))
 print(is_visible)
 ```
 
+## IsAlive
+
+### Return value:
+
+| Name | Type | Description |
+| :--- | :--- | :--- |
+| value | bool | Is player alive |
+
+```lua
+local entity = EntityList.GetClientEntity(EngineClient.GetLocalPlayer())
+local player = entity:GetPlayer()
+local is_alive = player:IsAlive()
+print(is_alive)
+```
+
 ## GetEyePosition
 
 ### Return value:
