@@ -238,7 +238,7 @@ weap:GetMaxSpeed()
 -- @summary: Prints the amount of bullets in clip and max bullets in clip available
 
 local clip = weap:GetProp("DT_BaseCombatWeapon", "m_iClip1")
-local max_clip = weap:GetmaxClip()
+local max_clip = weap:GetMaxClip()
 
 print("Bullets in clip: "..tostring(clip).."/"..tostring(max_clip))
 ```
