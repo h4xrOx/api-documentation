@@ -16,5 +16,5 @@
 | hitgroup | int | 0 == generic, non-zero is specific body part |
 | physicsbone | short | Physics bone hit by trace in studio |
 | worldSurfaceIndex | unsigned short | Index of the msurface2_t, if applicable |
-| hit_entity | IClientEntity\* | Enitty |
+| hit_entity | IClientEntity\* | Entity |
 | hitbox | int | Box hit by trace in studio |
