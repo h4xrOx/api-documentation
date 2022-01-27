@@ -150,6 +150,30 @@ local is_key_pressed = Cheat.IsKeyDown(0x1)
 local username = Cheat.GetCheatUserName()
 ```
 
+## GetConfigName
+
+### Return value:
+
+| Name | Type | Description |
+| :--- | :--- | :--- |
+| name | string | Neverlose's current config name |
+
+```lua
+local config = Cheat.GetConfigName()
+```
+
+## SetThirdPersonAnim
+
+### Parameters:
+
+| Name | Type | Description |
+| :--- | :--- | :--- |
+| value | bool | Sets thirdperson animation |
+
+```lua
+Cheat.SetThirdPersonAnim(false)
+```
+
 ## GetBinds
 
 ### Return value:
