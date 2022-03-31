@@ -15,6 +15,21 @@ Miss reasons:
 | 4 | Prediction error |
 {% endhint %}
 
+{% hint style="info" %}
+Hitgroups
+| Value | Description |
+| :--- | :--- |
+| 0 | Generic |
+| 1 | Head |
+| 2 | Chest |
+| 3 | Stomach |
+| 4 | Left arm |
+| 5 | Right arm |
+| 6 | Left leg |
+| 7 | Right leg |
+| 10 | Gear |
+{% endhint %}
+
 ## Fields:
 
 | Name            | Type     | Description                    |
